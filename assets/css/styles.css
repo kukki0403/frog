@@ -1,0 +1,87 @@
+.navbar.navbar-dark.navbar-expand-md.fixed-top.bg-dark {
+  background-color: #000000 !important;
+  opacity: 0.8;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.fas.fa-frog {
+  font-size: 20px;
+  color: #ffffff !important;
+}
+
+body {
+  padding-top: 50px;
+}
+
+.navbar-light .navbar-brand {
+  font-weight: bold;
+}
+
+.jumbotron {
+  border-radius: 20px;
+  padding: 40px;
+  background-color: rgb(255,255,255,0.55);
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+#promo {
+  text-align: center;
+  background: url(../../assets/img/bg.jpg);
+  background-size: cover;
+  padding: 40px;
+}
+
+body {
+  /*margin: 0;*/
+  font-family: Areil,Sans-serif;
+  /*font-size: 1rem;*/
+  /*font-weight: 400;*/
+  /*line-height: 1.5;*/
+  /*color: #212529;*/
+  /*text-align: left;*/
+  /*background-color: #fff;*/
+}
+
+#para2 {
+  text-align: center;
+  padding-top: 30px;
+  width: 100%;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.h1, h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+p {
+  text-align: center;
+}
+
+.fas.fa-frog {
+  color: #37590c;
+  font-size: 20px;
+}
+
+.col-4 {
+  text-align: center;
+}
+
+.form-control-plaintext {
+  text-align: center;
+}
+
+p {
+  padding-bottom: 40px;
+}
+
+#about {
+  padding-bottom: 0px;
+}
+
